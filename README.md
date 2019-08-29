@@ -15,4 +15,4 @@ To get started with this sample a few pre-requisites:
 1. To import download one of all of the aginitypkg files in the Github repository
 2. Open Aginity Pro or Team and use the File Import method as shown below
 
-![File Import Image!](/images/inport.png "Import Aginity Catalog Package")
+![File Import Image!](/images/importPkg.png "Import Aginity Catalog Package")
