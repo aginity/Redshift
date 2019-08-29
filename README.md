@@ -27,3 +27,14 @@ To get started with this sample a few pre-requisites:
 
 # Using Imported Queries
 
+1. You can call a catalog item by double clicking on the name of it from within the Catalog Browser as show below
+
+![Reference Catalog!](/images/dblClick.png "Call Catalog")
+
+2. Hit the execute button within a query window and enter your prompt as shown below
+
+![Parameter!](/images/pickParam.png "Enter Parameter")
+
+3. Enjoy the results and not having to write this query ever again!
+
+![View Results!](/images/viewResults.png "View Results")
