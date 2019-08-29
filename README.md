@@ -37,4 +37,4 @@ To get started with this sample a few pre-requisites:
 
 3. Enjoy the results and not having to write this query ever again!
 
-![View Results!](/images/viewResults.png "View Results")
+![View Results!](/images/viewResult.png "View Results")
