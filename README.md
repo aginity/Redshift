@@ -5,10 +5,13 @@ This repository has useful Redshift data dictionary/DBA queries you can use to d
 
 To get started with this sample a few pre-requisites:
 
-1. You must have access to a Redshift database
-2. The queries here will reference the following data dictionary tables.
-    * INFORMATION_SCHEMA.TABLES
-    * INFORMATION_SCHEMA.COLUMNS
+1. You must have access to a Redshift database and appropriate permissions to the INFORMATION_SCHEMA.
+2. The table below provides a reference to the INFORMATION_SCHEMA tables used and the corresponding catalog query names and description.
+
+|Catalog Item Name               |Catalog Item Package            |Catalog Item Description            
+|--------------------------      |--------------------------------|------------------------------------
+|Search for Columns by           |
+|exact name - All schemas        |
     
 # How to Import Queries Packages into Aginity Pro or Team
 
