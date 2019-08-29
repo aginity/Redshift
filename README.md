@@ -19,7 +19,7 @@ To get started with this sample a few pre-requisites:
 
 3. You will be presented with an Import Wizard as shown below.
 
-![File Import Wizard!](/images/importWiz.png "Import Aginity Catalog Package Wizard")
+![File Import Wizard!](/images/ImportWiz.png "Import Aginity Catalog Package Wizard")
 
 4. Pick a destination directory you want to place the catalog queries into.  I recommend for Redshift Utility queries specifyng a head directory like "Redshift Utility Queries"
 5. Typically you can click All or select the scripts you want to import
