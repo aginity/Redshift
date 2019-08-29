@@ -8,9 +8,9 @@ To get started with this sample a few pre-requisites:
 1. You must have access to a Redshift database and appropriate permissions to the INFORMATION_SCHEMA.
 2. The links below provide a reference to the INFORMATION_SCHEMA tables used and the corresponding catalog query names and description.
 
-For detail on the [Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg](Aginity-Pro-Redshift-Table-Column-Search-Queries.md).
+Click here for detail on the [Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg](Aginity-Pro-Redshift-Table-Column-Search-Queries.md)
 
-For detail on the [Aginity-Pro-Redshift-Admin-Set1.aginitypkg](Aginity-Pro-Redshift-Admin-Set1.md).
+Click here for detail on the [Aginity-Pro-Redshift-Admin-Set1.aginitypkg](Aginity-Pro-Redshift-Admin-Set1.md)
 
     
 # How to Import Queries Packages into Aginity Pro or Team
