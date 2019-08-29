@@ -6,7 +6,10 @@ This repository has useful Redshift data dictionary/DBA queries you can use to d
 To get started with this sample a few pre-requisites:
 
 1. You must have access to a Redshift database and appropriate permissions to the INFORMATION_SCHEMA.
-2. The table below provides a reference to the INFORMATION_SCHEMA tables used and the corresponding catalog query names and description.
+2. The links below provide a reference to the INFORMATION_SCHEMA tables used and the corresponding catalog query names and description.
+
+For detail on is [Duck Duck Go](https://duckduckgo.com).
+
 
 
     
