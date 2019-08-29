@@ -8,14 +8,7 @@ To get started with this sample a few pre-requisites:
 1. You must have access to a Redshift database and appropriate permissions to the INFORMATION_SCHEMA.
 2. The table below provides a reference to the INFORMATION_SCHEMA tables used and the corresponding catalog query names and description.
 
-|Catalog Item Name               |Catalog Item Package            |Catalog Item Description            | Required Table     |
-|--------------------------      |--------------------------------|------------------------------------|--------------------|
-|Search for Columns by exact name - All schemas        |Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg| This query allows you to search for any column across all schemas with an exact name match|INFORMATION_SCHEMA.COLUMNS|
-|Search for Columns by exact name - Public schema|Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg| This query allows you to search for any column across Public schema with an exact name match|INFORMATION_SCHEMA.COLUMNS|
-|Search for Columns by partial name - All schema|Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg| This query allows you to search for any column across all schemas with a partial name match|INFORMATION_SCHEMA.COLUMNS|
-|Search for Columns by partial name - Public schema|Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg| This query allows you to search for any column across Public schemas with a partial name match|INFORMATION_SCHEMA.COLUMNS|
-|Search for Tables by partial name - All schema|Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg| This query allows you to search for any table across all schemas with a partial name match|INFORMATION_SCHEMA.COLUMNS|
-|Search for Tables by partial name - Public schema|Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg| This query allows you to search for any table across Public schemas with a partial name match|INFORMATION_SCHEMA.COLUMNS|
+
     
 # How to Import Queries Packages into Aginity Pro or Team
 
