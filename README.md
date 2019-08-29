@@ -10,8 +10,8 @@ To get started with this sample a few pre-requisites:
 
 |Catalog Item Name               |Catalog Item Package            |Catalog Item Description            
 |--------------------------      |--------------------------------|------------------------------------
-|Search for Columns by           |
-|exact name - All schemas        |
+|Search for Columns by           
+|exact name - All schemas        |Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg| This query allows you to search for any column with an exact name match|
     
 # How to Import Queries Packages into Aginity Pro or Team
 
