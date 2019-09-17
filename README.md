@@ -9,7 +9,6 @@ To get started with using query packages a few pre-requisites:
 
 1. You must have Aginity Pro or Team installed.  Visit our website aginity.com/products to download Aginity Pro for free or evaluate Aginity Team. 
 2. You must have access to a Redshift database and appropriate permissions to the INFORMATION_SCHEMA.
-3. The links below provide a reference to the INFORMATION_SCHEMA tables used and the corresponding catalog query names and description.
 
 The folders within this repository represent classes of query packages which may interest you.  
 
