@@ -7,7 +7,7 @@
 
 
 
-### The table below details all queries within the [Aginity-Pro-Redshift-Admin-Set1](https://github.com/aginity/Redshift/blob/master/Administrative%20Query%20Packages/Aginity-Pro-Redshift-Admin-Set1.aginitypkg) package.
+### The table below details all queries within the Aginity-Pro-Redshift-Admin-Set1 package.
 
 
 
@@ -23,7 +23,7 @@
 |get View dependency|This query will list all dependent table names a view uses |pg_class, pg_depend   |
 
 
-### The table below details all queries within the [Aginity-Pro-Redshift-Table-Column-Search-Queries](https://github.com/aginity/Redshift/blob/master/Administrative%20Query%20Packages/Aginity-Pro-Redshift-Table-Column-Search-Queries.aginitypkg) package.
+### The table below details all queries within the Aginity-Pro-Redshift-Table-Column-Search-Queries package.
 
 
 
