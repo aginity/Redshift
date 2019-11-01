@@ -4,6 +4,7 @@
 |------------|--------------------|-----------------------------|
 |Aginity-Pro-Redshift-Admin-Set1|Contains administrative queries to do common tasks in Redshift   | 8  |
 |Aginity-Pro-Redshift-Table-Column-Search   | Contains search queries to find where tables or columns exist within Redshift   | 6  |
+|Aginity-Pro-Redshift-Table-Distribution-Skew-Info   | Contains queries to show skew and distribution for tables in Redshift   | 2  |
 
 
 
@@ -35,3 +36,10 @@
 |Search for Columns by partial name - Public schema|This query allows you to search for any column across Public schemas with a partial name match|INFORMATION_SCHEMA.COLUMNS|
 |Search for Tables by partial name - All schema|This query allows you to search for any table across all schemas with a partial name match|INFORMATION_SCHEMA.COLUMNS|
 |Search for Tables by partial name - Public schema|This query allows you to search for any table across Public schemas with a partial name match|INFORMATION_SCHEMA.COLUMNS|
+
+### The table below details all queries within the Aginity-Pro-Redshift-Table-Distribution-Skew-Info package.
+
+|Catalog Item Name               |Catalog Item Description            | Required Table     |
+|--------------------------      |------------------------------------|--------------------|
+|Distribution and skew for all tables in database | This query shows information about distribution and skew for all tables in database|svv_table_info, stv_blocklist|
+|Distribution and skew the table  |This query shows information about distribution and skew for the particular table|svv_table_info, stv_blocklist|
