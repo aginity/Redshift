@@ -5,7 +5,7 @@
 |Aginity-Pro-Redshift-Admin-Set1|Contains administrative queries to do common tasks in Redshift   | 8  |
 |Aginity-Pro-Redshift-Table-Column-Search   | Contains search queries to find where tables or columns exist within Redshift   | 6  |
 |Aginity-Pro-Redshift-Table-Distribution-Skew-Info   | Contains queries to show skew and distribution for tables in Redshift   | 2  |
-
+|Aginity-Pro-Redshift-User-Permissions   | Contains queries to show permissions on objects   | 3  |
 
 
 ### The table below details all queries within the Aginity-Pro-Redshift-Admin-Set1 package.
@@ -43,3 +43,13 @@
 |--------------------------      |------------------------------------|--------------------|
 |Distribution and skew for all tables in database | This query shows information about distribution and skew for all tables in database|svv_table_info, stv_blocklist|
 |Distribution and skew the table  |This query shows information about distribution and skew for the particular table|svv_table_info, stv_blocklist|
+
+
+### The table below details all queries within the Aginity-Pro-Redshift-User-Permissions package.
+
+|Catalog Item Name               |Catalog Item Description            | Required Table     |
+|--------------------------      |------------------------------------|--------------------|
+|User permissions on tables in database for particular user | This query shows information about user's permissions on tables|pg_tables, pg_user|
+|Users' permissions on table | This query shows information on permissions for particular table|pg_tables, pg_user|
+|Users permissions on all objects in database | This query shows all permissions on all objects for all users in database|pg_tables, pg_user, pg_group, pg_language, pg_default_acl, pg_proc, pg_database, pg_class, pg_namespace|
+
